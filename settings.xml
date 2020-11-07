@@ -1,0 +1,11 @@
+<settings>
+<config>
+     conf.xml
+</config>
+<plugins>
+		<plugin>
+			XFE.js
+		</plugin>
+</plugins>
+<value>10</value>
+</settings>
