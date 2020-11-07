@@ -1,1 +1,10 @@
-<config>conf.xml</>
+<settings>
+	<config>
+		conf.xml
+	</config>
+	<plugins>
+		<plugin>
+			XFE.js
+		</plugin>
+  	</plugins>
+</settings>
