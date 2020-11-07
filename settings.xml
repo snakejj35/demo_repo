@@ -2,9 +2,10 @@
 <config>
      conf.xml
 </config>
-	<plugins>
+<plugins>
 		<plugin>
 			XFE.js
 		</plugin>
-  	</plugins>
+</plugins>
+<value>10</value>
 </settings>
