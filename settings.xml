@@ -9,4 +9,5 @@
 </plugins>
 <value>10</value>
 <bean>java.lang.lang</bean>
+<bean>MyClass.class</>
 </settings>
